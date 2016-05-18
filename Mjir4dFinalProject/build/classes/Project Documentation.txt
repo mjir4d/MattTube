@@ -1,0 +1,19 @@
+Classes - Mjir4dFinalProject, Switchable
+
+Subclasses - FXMLDocumentController 1-4 are subclasses of Switchable
+
+Abstract class or Interface - Switchable class
+
+Collection Classes - the "filepaths" static arraylist
+
+Exception Handling - File IO and Switchable
+
+Model - FXMLDocumentController 1-4
+
+Multiple scenes - FXMLDocument 1-4 are for scene switching
+
+About information - About button at bottom right displays app information
+
+Save and Load data - Saves video views to txt using file io
+
+
